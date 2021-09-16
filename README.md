@@ -1,4 +1,4 @@
-# miniproject1
+# Sheep and Wolves
 
 INTRODUCTION
 
