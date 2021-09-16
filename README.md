@@ -1,6 +1,6 @@
 # miniproject1
 
-####INTRODUCTION
+INTRODUCTION
 
 The Sheep and Wolves problem is an AI game that consists of a shepherd who has to cross a certain number of sheep and wolves across the river in a boat, following some rules:
 - The number of wolves on either side of the river cannot outnumber the sheep.
@@ -8,7 +8,7 @@ The Sheep and Wolves problem is an AI game that consists of a shepherd who has t
 - Only one or two animals can be crossed in the boat at a time, not less nor more.
 
 
-###KEY DEFINITIONS
+KEY DEFINITIONS
 
 1.1 Initial and Goal state definition:
 
